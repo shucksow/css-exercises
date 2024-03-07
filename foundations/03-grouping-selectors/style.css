@@ -1,0 +1,16 @@
+.bright-button,
+.strong-button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+    color: hsla(360, 100%, 100%, 1); 
+}
+
+.bright-button {
+    background-color: hsla(343, 60%, 87%, 1);
+    color: black;
+}
+
+.strong-button {
+    background-color: hsla(0, 0%, 0%, 1);
+    font-weight: 500;
+}
